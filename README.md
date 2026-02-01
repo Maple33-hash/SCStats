@@ -29,6 +29,7 @@ SCStats is designed to be safe and transparent:
 
 All processing happens locally on your machine.
 
+For more details, see [docs/trust.md](docs/trust.md).
 ---
 
 ## Downloads
