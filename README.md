@@ -48,6 +48,17 @@ Releases are published through **GitHub Releases**.
 
 ---
 
+## Quick Start
+
+1. Download the latest release from GitHub Releases
+2. Run `SCStats-v0.8.0.exe`
+3. Select your Star Citizen installation directory
+4. SCStats automatically analyzes your local log files
+
+No configuration required.
+
+
+
 ## Support Development
 
 SCStats is free and fully usable without payment.
