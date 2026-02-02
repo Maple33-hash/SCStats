@@ -66,10 +66,13 @@ No configuration required.
 
 SCStats is free and fully usable without payment.
 
-If you find it useful and want to support development, you can do so here:  
-**(Ko-fi link – add later)**
+If you find SCStats useful and want to support development, you can do so here:
+https://ko-fi.com/maple33
+
 
 ---
+
+
 
 ## Disclaimer
 
