@@ -5,6 +5,13 @@ events and session statistics from the game's log files.
 
 It runs entirely offline and does **not** interact with the game process.
 
+## Screenshots
+
+![Overview](docs/screenshots/overview.png)
+![Playtime](docs/screenshots/playtime.png)
+![Purchases](docs/screenshots/purchases.png)
+
+
 ---
 
 ## What SCStats Does
