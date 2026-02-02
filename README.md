@@ -7,9 +7,9 @@ It runs entirely offline and does **not** interact with the game process.
 
 ## Screenshots
 
-![Overview](docs/screenshots/loadout.png)
 ![Playtime](docs/screenshots/playtime.png)
 ![Purchases](docs/screenshots/purchases.png)
+![Overview](docs/screenshots/loadout.png)
 
 
 ---
