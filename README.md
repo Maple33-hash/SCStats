@@ -35,6 +35,9 @@ SCStats is designed to be safe and transparent:
 - ❌ No network uploads  
 
 All processing happens locally on your machine.
+SCStats does not require Star Citizen to be running.
+
+It does not interfere with AntiCheat software or modify the game process at all
 
 For more details, see [docs/trust.md](docs/trust.md).
 ---
